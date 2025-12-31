@@ -1,16 +1,34 @@
-# minigame
+# Flapgame
 
-A new Flutter project.
+## What it is
+A simple 2D Flutter game inspired by Flappy-style mechanics where the player taps to keep a character flying and avoid obstacles.
 
-## Getting Started
+## Features
+- Tap to fly mechanic
+- Score tracking
+- Simple physics movement
+- Restart on crash
 
-This project is a starting point for a Flutter application.
+## How to Play
+1. Tap the screen repeatedly to keep the character afloat
+2. Avoid obstacles
+3. Your score increases the longer you survive
 
-A few resources to get you started if this is your first Flutter project:
+## Key Technologies
+- Flutter (Dart)
+- Game logic in lib/
+- Assets (images/sounds) included
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
+📷 Screenshots:  
+(Add images here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎥 Short video: (link to unlisted YouTube or Drive)
+
+## What I Learned
+- Flutter widget structure
+- Basic game loop & collision logic
+- Handling input & animation
+- Packaging a Flutter game
+
+## How to Run.
