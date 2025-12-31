@@ -19,16 +19,8 @@ A simple 2D Flutter game inspired by Flappy-style mechanics where the player tap
 - Game logic in lib/
 - Assets (images/sounds) included
 
-## Demo
-📷 Screenshots:  
-(Add images here)
-
-🎥 Short video: (link to unlisted YouTube or Drive)
-
 ## What I Learned
 - Flutter widget structure
 - Basic game loop & collision logic
 - Handling input & animation
-- Packaging a Flutter game
-
-## How to Run.
+- Packaging a Flutter game.
